@@ -1,0 +1,10 @@
+venv/
+.idea/
+**/__pycache__
+**/config
+rsakey*
+tmp_*.sql
+*.properties
+*.stackdump
+/test/test_reports/
+/conf/config_override.conf
